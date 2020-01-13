@@ -3,7 +3,7 @@ package challenge.coding.google.one.one;
 class Solution {
 
 	/*
-	 * The cake is not a lie
+	 * The cake is not a lie 
 	 * 
 	 * The algo here is to calculate the longest prefix which is also a suffix. Part
 	 * of KMP search algo Borrowed the LPS code from geeksforgeeks
