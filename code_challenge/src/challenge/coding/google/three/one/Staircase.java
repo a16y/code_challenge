@@ -6,7 +6,9 @@ class Solution {
 		 * The grandest staircase of them all
 		 * 
 		 * This is a problem of partitioning a number into k distinct values. Algo is:
-		 * N(k,n) = 0, if k>=n N(k,n) = 1, if k=n N(k,n) = N(k+1,n) + N(k+1, n-k)
+		 * N(k,n) = 0, if k>=n 
+		 * N(k,n) = 1, if k=n 
+		 * N(k,n) = N(k+1,n) + N(k+1, n-k)
 		 */
 		int[][] matrix = new int[n + 1][n + 1];
 		matrix[0][0] = 1;
