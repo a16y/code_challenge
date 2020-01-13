@@ -2,7 +2,7 @@ package challenge.coding.google.three.one;
 
 class Solution {
 	/*
-	 * The grandest staircase of them all
+	 * The grandest staircase of them all 
 	 * 
 	 * This is a problem of partitioning a number into k distinct values. Algo is:
 	 * N(k,n) = 0, if k>=n 
