@@ -1,4 +1,4 @@
-package code_challenge;
+package challenge.coding.google.three.one;
 
 class Solution {
 	public static int solution(int n) {
@@ -24,7 +24,7 @@ class Solution {
 	}
 }
 
-public class Staircase31 {
+public class Staircase {
 
 	public static void main(String[] args) {
 		System.out.println(Solution.solution(200));
