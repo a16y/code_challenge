@@ -1,2 +1,2 @@
 # code_challenge
-Code Challenge assignements
+Code Challenge assignments
